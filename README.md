@@ -1,6 +1,6 @@
 # 🐹 GooferORM
 
-**GooferORM** is a modern, playful ecosystem of tools built on top of [go-prisma](https://github.com/go-prisma/prisma-client-go) — bringing type-safe, schema-first ORM magic to Go developers.  
+**GooferORM** is a modern, playful ecosystem of tools built on top of [go-prisma](https://github.com/steebchen/prisma-client-go) — bringing type-safe, schema-first ORM magic to Go developers.  
 
 We’re building a new standard for Go backends: **developer-friendly**, **GraphQL-aware**, and **performance-tuned**.
 
@@ -16,7 +16,7 @@ We’re building a new standard for Go backends: **developer-friendly**, **Graph
 
 ---
 
-## 📦 Projects under GooferORM
+##  Projects under GooferORM
 
 | Project       | Description |
 |---------------|-------------|
@@ -35,7 +35,7 @@ We’re building a new standard for Go backends: **developer-friendly**, **Graph
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 We love contributors! ❤️  
 If you have ideas, improvements, or want to help build the future of Go backends, open an issue or PR!
@@ -47,19 +47,12 @@ If you have ideas, improvements, or want to help build the future of Go backends
 
 ---
 
-## 🧑‍💻 Maintainers
+##  Maintainers
 
-Built and maintained by [@Tach](https://github.com/yourusername) and the open-source community.
-
----
-
-## 🎨 Logo
-
-Made with love and coral `#E9967A`.
-
-![GooferORM Logo](./path/to/logo.png)
+Built and maintained by [@Tach](https://github.com/tacheraSasi) and the open-source community.
 
 ---
+
 
 ## 🧭 License
 
